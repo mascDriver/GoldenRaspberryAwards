@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "golderraspberryawards"
+version = "0.1.0"
+description = ""
+authors = ["mascDriver <diogoblibi@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.115.12"
+uvicorn = "^0.34.2"
+sqlalchemy = "^2.0.40"
+pydantic-settings = "^2.9.1"
+pandas = "^2.2.3"
+sqlmodel = "^0.0.24"
+python-multipart = "^0.0.20"
+pytest = "^8.3.5"
+httpx = "^0.28.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
