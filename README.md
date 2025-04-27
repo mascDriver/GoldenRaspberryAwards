@@ -6,7 +6,6 @@
 ![Tests](https://img.shields.io/badge/Tests-Pytest-green?style=for-the-badge&logo=pytest&logoColor=white)
 
 ![Tests](https://github.com/mascDriver/GoldenRaspberryAwards/actions/workflows/python-tests.yml/badge.svg)
-[![codecov](https://codecov.io/gh/username/GoldenRaspberryAwards/branch/main/graph/badge.svg)](https://codecov.io/gh/username/GoldenRaspberryAwards)
 
 Uma API RESTful para gerenciar os dados do prêmio Golden Raspberry Awards, famoso por reconhecer os piores filmes da
 indústria cinematográfica.
