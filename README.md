@@ -24,7 +24,7 @@ indústria cinematográfica.
 1. Clone o repositório:
 
 ``` bash
-   git clone <repository-url>
+   git clone https://github.com/mascDriver/GolderRaspberryAwards
    cd GoldenRaspberryAwards
 ```
 
